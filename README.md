@@ -3,7 +3,7 @@
 
 - 🎓 I hold a degree in Electrical and Electronic Engineering.
   
-- 🔭 I’m currently working on the Buddies App Community app for SwiftBuddies community in Istanbul.
+- 🔭 I am currently developing the Buddies App, a community platform designed for the SwiftBuddies Community in Istanbul.
   
 - 🌱 I started 2 years ago by learning UIKit. I am currently working on mastering swiftUI.
   
